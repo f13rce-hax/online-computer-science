@@ -6,7 +6,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
+[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none | Yes
 
 ## Programming
 
@@ -30,16 +30,16 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
-[Introduction to Probability and Data](https://imp.i384100.net/9WZ4E0) | Duke | 5 weeks | 5-7 hours/week | twice a month | none
-[Intro to Statistics ](https://imp.i115008.net/intro-to-statistics) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none
+[Introduction to Probability and Data](https://imp.i384100.net/9WZ4E0) | Duke | 5 weeks | 5-7 hours/week | twice a month | none | Yes
+[Intro to Statistics ](https://imp.i115008.net/intro-to-statistics) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none | Yes
 
 
 ## Systems
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://imp.i384100.net/6b13dV) | Hebrew University of Jerusalem | 6 weeks | 5 hours/week | twice a month | basic programming knowledge
-[Build a Modern Computer from First Principles: From Nand to Tetris II](https://imp.i384100.net/dovNVq) | Hebrew University of Jerusalem | 6 weeks | 10-15 hours/week | once a month | Build a Modern Computer from First Principles: From Nand to Tetris
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://imp.i384100.net/6b13dV) | Hebrew University of Jerusalem | 6 weeks | 5 hours/week | twice a month | basic programming knowledge | Yes
+[Build a Modern Computer from First Principles: From Nand to Tetris II](https://imp.i384100.net/dovNVq) | Hebrew University of Jerusalem | 6 weeks | 10-15 hours/week | once a month | Build a Modern Computer from First Principles: From Nand to Tetris | Yes
 [Introduction to Operating Systems](https://imp.i115008.net/introduction-to-operating-systems)| Georgia Tech | 8 weeks | 5-8 hours/week | self-paced | Build a Modern Computer from First Principles: From Nand to Tetris II
 
 
@@ -65,5 +65,5 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics) | Udacity | 1 week | 5 hours/week | self-paced | none
-[The Unix Workbench](https://imp.i384100.net/QOXZ4P) | JHU | 4 weeks | 4 hours/week | once a month | none
+[Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics) | Udacity | 1 week | 5 hours/week | self-paced | none | Yes
+[The Unix Workbench](https://imp.i384100.net/QOXZ4P) | JHU | 4 weeks | 4 hours/week | once a month | none | Yes
